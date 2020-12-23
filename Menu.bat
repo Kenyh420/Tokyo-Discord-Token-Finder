@@ -1,6 +1,5 @@
 @echo off
 :menu
-SET var=0
 cls
 title TOKYO TOKEN FINDER ^| Cargando...
 color a
