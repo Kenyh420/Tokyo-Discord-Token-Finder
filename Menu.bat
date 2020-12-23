@@ -22,9 +22,8 @@ echo.
 echo                            [1] Install ^| [2] Launch
 echo                            [3] Support ^| [4] Exit
 echo.
-SET /p var= ^> Seleccione una opcion [1-6]:
+SET /p var= ^> Seleccione una opcion [1-4]:
 
-if "%var%"=="0" goto menu
 if "%var%"=="1" goto Install
 if "%var%"=="2" goto Launch
 if "%var%"=="3" goto Support
