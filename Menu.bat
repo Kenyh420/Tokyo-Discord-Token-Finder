@@ -49,7 +49,7 @@ python main.py
 :Support
 	echo.
 	echo. Has elegido la opcion No. 3
-START https://discord.gg/YwfHs39Hn6
+START https://discord.gg/SyntaxSquad
 	echo. 
 	goto:menu
 
